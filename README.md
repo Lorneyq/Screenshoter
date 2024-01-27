@@ -43,4 +43,4 @@ That's it, the whole project is up and running. Congratulations!🎉🥳
 
 👉[Live demo](https://screenshoter-three.vercel.app/)
 
-![Screenshoter demo](https://lorneyq.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fscreenshoter.399889b5.jpg&w=3840&q=75)
+![Screenshoter demo](https://api-lorneyq.online/media/projects/screenshoter.jpg)
